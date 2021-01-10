@@ -1,1 +1,5 @@
 b_score_webapp/__pycache__/
+.idea/
+webapp/__pycache__/
+webapp/migrations/__pycache__/
+webapp/models/__pycache__/
